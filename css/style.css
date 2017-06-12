@@ -1,0 +1,162 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+*{
+	font-family: 'Lato',sans-serif;
+}
+/* cabezera */
+.navbar{
+	font-weight: bold;
+	background-color: transparent;
+	border:transparent;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.icon-bar{
+	color: white;
+}
+.primera{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-position: center
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.primerparra{
+	font-weight: bold;
+	color: white;
+	margin-top:80%;
+	margin-left: 30%;
+}
+.texto1{
+	font-size: 25px;
+	font-weight: bold;
+}
+.btn{
+	background-color: #41521F;
+	border:transparent;
+	color: white;
+}
+/* segunda seccion */
+.segunda{
+	margin-top: 20%;
+	color: #082A61;
+	margin-bottom:10%;
+	font-size: 15px;
+}
+.textos2{
+	color: #A89F68;
+	font-weight: bold;
+}
+.titulo{
+	color: #A89F68;
+	font-weight: bold;
+}
+#ph{
+	margin-top: 50px;
+}
+/* tercera seccion */
+.tercera{
+	background-color:#A89F68;
+	color: white;
+}
+.titulotres{
+	color: #41521F;
+	font-weight: bold;
+}
+#cosita{
+	width: 100%;
+	margin-bottom:10%;
+	border: 5px solid white;
+	margin-top: 5%;
+}
+.text3{
+	margin-top: 5%;
+	margin-left:10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+/*seccion cuatro*/
+.cuarta{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.aiuda{
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 20%;
+}
+/*seccion cinco*/
+.quinta{
+	margin:5%;
+}
+.continequinta{
+	margin-top: 2%;
+	color: #082A61;
+}
+#icono{
+	color: #A89F68;
+	font-size: 60px;
+	margin-bottom: 10%;
+}
+.titulocinco{
+	color: #A89F68;
+	font-weight: bold;
+}
+/*seccion seis*/
+.partesexta{
+	background-color: #A89F68;
+}
+.contieneseis{
+	color: #41521F;
+	font-weight: bold;	
+	margin-top: 50px;
+}
+.tituloseis{
+	color: #41521F;
+	padding: 30	px;
+}
+.num{
+	color: white;
+	font-size: 70px;
+}
+.linea{
+	border-bottom: 1px solid white;
+	margin: 10%;
+}
+#donate{
+	margin-bottom: 10%;
+}
+#dolar{
+	color: white;
+	position: absolute;
+	margin-left: -50px;
+	margin-top: 20px;
+}
+.aud{
+	color: white;
+	position: absolute;
+	margin-left: 55%;
+	margin-top: -35px;
+}
+/* footer*/
+.footer{
+	background-color: #41521F;
+	padding:50px;
+	color: #A89F68;
+}
+.green{
+	color: #A89F68;
+}
+.blanc{
+	color: white;
+}
+#mouse{
+cursor: pointer;
+}
